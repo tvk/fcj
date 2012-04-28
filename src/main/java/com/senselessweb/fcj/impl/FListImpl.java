@@ -30,6 +30,7 @@ public class FListImpl<A> extends ArrayList<A> implements FList<A>
 	 */
 	public FListImpl() 
 	{
+		
 		super();
 	}
 	
